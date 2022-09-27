@@ -1,0 +1,34 @@
+GetCrate v1.1.0 by Bear
+
+Document Author: Bear (Swapnil#9308)
+
+------
+
+Installation Video Guide (for a Similar Mod): https://youtu.be/nlS4Ld8_jBc
+
+INSTALLATION INSTRUCTIONS:
+
+1. Have eiter SA:MP 0.3.7 R1 or 0.3.7 R3-1 installed in GTA SA v1.0. (Either SA:MP version requires a seperate version of SAMPFUNCS. Check Links.txt for more.)
+
+2. Ensure that you have the latest versions of CLEO, ASI Loader, SAMPFUNCS and Moonloader installed. (Check Links.txt)
+
+3. Copy the 'moonloader' folder from 'GetCrate v1.0 by Bear' to your GTA SA game directory. Replace existing files with new ones if necessary.
+
+Contact Swapnil#9308 on Discord for support.
+
+------
+
+COMMANDS:
+
+/gchelp
+
+------
+
+ABOUT THE MOD:
+
+This bot eliminates the need to enter text or key input for picking up drug crates (both crack and pot) by using a robust tracking system.
+
+------
+
+Official Thread:
+https://forums.hzgaming.net/showthread.php/494874-LUA-GetCrate-v1-0
