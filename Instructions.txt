@@ -31,4 +31,4 @@ This bot eliminates the need to enter text or key input for picking up drug crat
 ------
 
 Official Thread:
-https://forums.hzgaming.net/showthread.php/494874-LUA-GetCrate-v1-0
+https://forums.hzgaming.net/showthread.php/494874-LUA-GetCrate
