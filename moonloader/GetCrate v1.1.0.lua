@@ -6,8 +6,8 @@
 script_name("GetCrate")
 script_description("This bot eliminates the need to enter text or key input for picking up drug crates (both crack and pot) by using a robust tracking system.")
 script_author("Bear")
-script_version("1.1.0")
-local version = "1.1.0"
+script_version("1.1.1")
+local version = "1.1.1"
 
 
 -----------------------------------------------------
@@ -56,7 +56,7 @@ end
 
 
 -- Indicates if a checkpoint doesn't exist
-local isACheckpointActive = true
+local isACheckpointActive = false
 
 -- Flag turned on by /gcreset, helping the player end the drug selection loop if they so desire
 local isGCResetRequired = false
